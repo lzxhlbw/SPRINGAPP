@@ -16,6 +16,34 @@
           <element id="library" level="project" name="Spring Security-3.2.5" />
           <element id="library" level="project" name="Spring Web Services-2.0.2" />
           <element id="library" level="project" name="Spring Webflow-2.4.0" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/jstl-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/standard-1.1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-tx-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-aop-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-jms-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-orm-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-oxm-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-web-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-core-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-jdbc-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-test-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-beans-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-struts-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-webmvc-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-aspects-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-context-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/taglibs-standard-compat-1.2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/taglibs-standard-jstlel-1.2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-build-src-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-expression-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-instrument-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-framework-bom-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-webmvc-portlet-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-context-support-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-instrument-tomcat-3.2.9.RELEASE.jar" />
         </element>
       </element>
     </root>

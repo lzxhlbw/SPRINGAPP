@@ -30,5 +30,13 @@
             <taglib-uri>http://java.sun.com/jstl/fmt</taglib-uri>
             <taglib-location>/WEB-INF/tld/fmt.tld</taglib-location>
         </taglib>
+        <taglib>
+            <taglib-uri>/spring</taglib-uri>
+            <taglib-location>/WEB-INF/tld/spring-form.tld</taglib-location>
+        </taglib>
     </jsp-config>
+
+
+
+
 </web-app>
