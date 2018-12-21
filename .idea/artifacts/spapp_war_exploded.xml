@@ -44,6 +44,12 @@
           <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-webmvc-portlet-3.2.9.RELEASE.jar" />
           <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-context-support-3.2.9.RELEASE.jar" />
           <element id="file-copy" path="$USER_HOME$/Desktop/lib3.29/spring-instrument-tomcat-3.2.9.RELEASE.jar" />
+          <element id="file-copy" path="D:/download/aopalliance-.jar" />
+          <element id="file-copy" path="D:/download/commons-dbcp-1.2.jar" />
+          <element id="file-copy" path="D:/download/commons-pool-1.6-bin/commons-pool-1.6/commons-pool-1.6.jar" />
+          <element id="file-copy" path="D:/download/mysql-connector-java-8.0.13.jar" />
+          <element id="file-copy" path="E:/2018-19/RC/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar" />
+          <element id="file-copy" path="E:/2018-19/RC/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47-bin.jar" />
         </element>
       </element>
     </root>

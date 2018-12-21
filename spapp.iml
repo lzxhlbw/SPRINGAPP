@@ -23,7 +23,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.2" level="application_server_libraries" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
           <root url="file://$USER_HOME$/Desktop/lib3.29" />
@@ -31,6 +31,45 @@
         <JAVADOC />
         <SOURCES />
         <jarDirectory url="file://$USER_HOME$/Desktop/lib3.29" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/download/aopalliance-.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/download/commons-dbcp-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/download/commons-pool-1.6-bin/commons-pool-1.6/commons-pool-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://E:/2018-19/RC/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/2018-19/RC/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/src" />
+        </SOURCES>
+        <jarDirectory url="file://E:/2018-19/RC/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47" recursive="false" />
       </library>
     </orderEntry>
   </component>
